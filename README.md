@@ -1,8 +1,8 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋!</h2>
 
 ###
 
-<img align="right" height="150" src="https://64.media.tumblr.com/7b0c94c1dc1e0d834df8c22a3aae4f86/13b99a2a961a0447-58/s540x810/0da4a79705a5286078914f12f3ad05ce67c476ca.gifv"  />
+<img align="right" height="150" src="https://img3.pillowfort.social/posts/cf57a07f317c5e8337b5.gif"  />
 
 ###
 
@@ -33,7 +33,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://64.media.tumblr.com/6d6633c0e23044e7aff0ce09caf488f1/tumblr_oyv2wzQhju1qgm8fzo1_500.gif"  />
+  <img height="200" src="https://img3.pillowfort.social/posts/31e54ccb347bc8f4cf20.gif"  />
 </div>
 
 ###
