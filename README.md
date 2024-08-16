@@ -2,25 +2,27 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="center">👩‍💻  About Me</h3>
 
 ###
 
 <br clear="both">
 
-<img align="left" height="260" src="https://media1.tenor.com/m/5eBPoN4JvUQAAAAC/edgerunners-cyberpunk.gif"  />
+<div align="center">
+  <img height="260" src="https://media1.tenor.com/m/5eBPoN4JvUQAAAAC/edgerunners-cyberpunk.gif"  />
+</div>
 
 ###
 
-<p align="left">I'm Wendel Lisboa from Sinop/MT, Brazil.<br><br>🔭 I work as a programming teacher.<br>📚 I'm currently learning Unreal Engine 5.<br>⚡ In my free time, I enjoy reading, gaming, and developing projects.</p>
+<p align="center">I'm Wendel Lisboa from Sinop/MT, Brazil.<br><br>🔭 I work as a programming teacher.<br>📚 I'm currently learning Unreal Engine 5.<br>⚡ In my free time, I enjoy reading, gaming, and developing projects.</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="center">🛠 Language and tools</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -38,7 +40,11 @@
 
 ###
 
-<div align="left">
+<h3 align="center">🔗 Connect with me</h3>
+
+###
+
+<div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="39" height="27" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="39" height="27" alt="youtube logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="39" height="27" alt="twitter logo"  />
@@ -49,6 +55,6 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="center">🔥   My Stats :</h3>
 
 ###
