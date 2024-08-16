@@ -1,20 +1,12 @@
+<img align="left" height="500" src="https://media1.tenor.com/m/-jsmsxDhbkAAAAAC/rebecca-cyberpunk-edgerunners.gif"  />
+
+###
+
 <p align="center">Heey 👋!</p>
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <img height="260" src="https://media1.tenor.com/m/5eBPoN4JvUQAAAAC/edgerunners-cyberpunk.gif"  />
-</div>
-
-###
-
-<p align="center">👩‍💻  About Me</p>
-
-###
-
-<p align="center">I'm Wendel Lisboa from Sinop/MT, Brazil.<br>🔭 I work as a programming teacher.<br>📚 I'm currently learning Unreal Engine 5.<br>⚡ In my free time, I enjoy reading, gaming, and developing projects.</p>
+<p align="center">👩‍💻  About Me <br><br>I'm Wendel Lisboa from Sinop/MT, Brazil.<br>🔭 I work as a programming teacher.<br>📚 I'm currently learning Unreal Engine 5.<br>⚡ In my free time, I enjoy reading, gaming, and developing projects.</p>
 
 ###
 
