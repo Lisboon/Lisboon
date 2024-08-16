@@ -6,6 +6,8 @@
 
 ###
 
+<br clear="both">
+
 <img align="left" height="260" src="https://media1.tenor.com/m/5eBPoN4JvUQAAAAC/edgerunners-cyberpunk.gif"  />
 
 ###
