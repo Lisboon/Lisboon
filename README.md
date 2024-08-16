@@ -1,4 +1,4 @@
-<img align="left" height="500" src="https://media1.tenor.com/m/-jsmsxDhbkAAAAAC/rebecca-cyberpunk-edgerunners.gif"  />
+<img align="left" height="500" src="https://media1.tenor.com/m/X4IBLofyYxEAAAAC/rebecca-edgerunners.gif"  />
 
 ###
 
@@ -6,7 +6,11 @@
 
 ###
 
-<p align="center">👩‍💻  About Me <br><br>I'm Wendel Lisboa from Sinop/MT, Brazil.<br>🔭 I work as a programming teacher.<br>📚 I'm currently learning Unreal Engine 5.<br>⚡ In my free time, I enjoy reading, gaming, and developing projects.</p>
+<p align="center">👩‍💻  About Me</p>
+
+###
+
+<p align="center">I'm Wendel Lisboa from Sinop/MT, Brazil.<br>🔭 I work as a programming teacher.<br>📚 I'm currently learning Unreal Engine 5.<br>⚡ In my free time, I enjoy reading, gaming, and developing projects.</p>
 
 ###
 
@@ -40,13 +44,10 @@
   <a href="https://www.linkedin.com/in/lisboon/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="39" height="27" alt="linkedin logo"  />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="39" height="27" alt="youtube logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="39" height="27" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="39" height="27" alt="discord logo"  />
   <a href="https://www.instagram.com/wlisboa178/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="39" height="27" alt="instagram logo"  />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="39" height="27" alt="twitch logo"  />
 </div>
 
 ###
