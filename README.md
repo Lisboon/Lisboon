@@ -1,4 +1,4 @@
-<img align="left" height="500" src="https://media1.tenor.com/m/X4IBLofyYxEAAAAC/rebecca-edgerunners.gif"  />
+<img align="left" height="500" src="https://media1.tenor.com/m/-jsmsxDhbkAAAAAC/rebecca-cyberpunk-edgerunners.gif"  />
 
 ###
 
@@ -41,12 +41,12 @@
 ###
 
 <div align="center">
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="twitter logo"  />
   <a href="https://www.linkedin.com/in/lisboon/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="39" height="27" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="linkedin logo"  />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="39" height="27" alt="twitter logo"  />
   <a href="https://www.instagram.com/wlisboa178/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="39" height="27" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="instagram logo"  />
   </a>
 </div>
 
